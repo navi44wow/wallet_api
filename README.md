@@ -6,7 +6,7 @@ The Wallet API is a RESTful web service that allows users to manage their wallet
 
 ## Features
 
-- Create, update, and retrieve users and wallets
+- Create and retrieve users and wallets
 - Create and retrieve entries for wallets
 - Export entries to a CSV file format for a specified period
 
