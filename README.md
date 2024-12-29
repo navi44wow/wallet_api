@@ -29,8 +29,7 @@ The Wallet API is a RESTful web service that allows users to manage their wallet
 ### Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/wallet-api.git
-cd wallet-api
+git clone https://github.com/navi44wow/wallet_api.git
 ```
 
 ### Configure the database
